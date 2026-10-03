@@ -1,0 +1,6 @@
+{
+  "name": "KALI-ARES // Plataforma Táctica de Rastreo GPS E2EE",
+  "description": "Plataforma nativa para Kali Linux y Centro de Mando Táctico para rastreo GPS militar en tiempo real con PBKDF2, AES-256-GCM, TLS 1.3, PyQt6 y Leaflet offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
